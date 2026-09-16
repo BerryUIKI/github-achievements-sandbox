@@ -11,3 +11,4 @@
 - Pair Extraordinaire step #9 with collaborator
 - Pair Extraordinaire step #10 with collaborator
 - Pair Extraordinaire step #11 with collaborator
+- Pair Extraordinaire step #12 with collaborator
