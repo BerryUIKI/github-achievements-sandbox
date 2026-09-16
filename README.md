@@ -15,3 +15,4 @@
 - Pair Extraordinaire step #13 with collaborator
 - Pair Extraordinaire step #14 with collaborator
 - Pair Extraordinaire step #15 with collaborator
+- Pair Extraordinaire step #16 with collaborator
