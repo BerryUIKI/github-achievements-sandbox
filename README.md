@@ -4,3 +4,4 @@
 - Pair Extraordinaire step #2 with collaborator
 - Pair Extraordinaire step #3 with collaborator
 - Pair Extraordinaire step #4 with collaborator
+- Pair Extraordinaire step #5 with collaborator
