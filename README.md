@@ -8,3 +8,4 @@
 - Pair Extraordinaire step #6 with collaborator
 - Pair Extraordinaire step #7 with collaborator
 - Pair Extraordinaire step #8 with collaborator
+- Pair Extraordinaire step #9 with collaborator
