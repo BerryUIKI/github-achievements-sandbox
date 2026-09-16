@@ -22,3 +22,4 @@
 - Pair Extraordinaire step #20 with collaborator
 - Pair Extraordinaire step #21 with collaborator
 - Pair Extraordinaire step #22 with collaborator
+- Pair Extraordinaire step #23 with collaborator
